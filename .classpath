@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/jas-hadoop/test data/hadoop-jars/commons-configuration-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/jas-hadoop/test data/hadoop-jars/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/jas-hadoop/test data/hadoop-jars/datanucleus-api-jdo-3.2.6.jar"/>
+	<classpathentry kind="lib" path="C:/jas-hadoop/test data/hadoop-jars/datanucleus-core-3.2.10.jar"/>
+	<classpathentry kind="lib" path="C:/jas-hadoop/test data/hadoop-jars/datanucleus-rdbms-3.2.9.jar"/>
+	<classpathentry kind="lib" path="C:/jas-hadoop/test data/hadoop-jars/hello-sparkapp_2.10-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/jas-hadoop/test data/hadoop-jars/hive-jdbc-0.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/jas-hadoop/test data/hadoop-jars/hive-jdbc-0.13.0.jar"/>
+	<classpathentry kind="lib" path="C:/jas-hadoop/test data/hadoop-jars/hive-jdbc-1.2.1000.2.4.2.12-1.jar"/>
+	<classpathentry kind="lib" path="C:/jas-hadoop/test data/hadoop-jars/slf4j-all-log4j12-1.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/jas-hadoop/test data/hadoop-jars/spark-1.5.2-yarn-shuffle.jar"/>
+	<classpathentry kind="lib" path="C:/jas-hadoop/test data/hadoop-jars/spark-core_2.9.2-0.6.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/jas-hadoop/test data/hadoop-jars/spark-core_2.9.2-0.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/jas-hadoop/test data/hadoop-jars/spark-examples-1.5.2-hadoop2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/jas-hadoop/test data/hadoop-jars/hadoop-core-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/jas-hadoop/test data/hadoop-jars/hadoop-common-2.2.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
