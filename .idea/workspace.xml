@@ -1,30 +1,264 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="179cba82-6bb8-4d18-8d14-2a81a71de2f4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Arrays/MaxSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/RotateArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/SortedArrayMerged.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hash/RecurringNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/AB.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/AB.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Anonymous_ex$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Anonymous_ex$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Anonymous_ex.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Anonymous_ex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Armstrong_num.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Armstrong_num.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/AsciiDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/AsciiDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/B.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Basic2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Basic2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Break_continue.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Break_continue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/C.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/C.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Cal.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Cal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Constructor_ex.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Constructor_ex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Demo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Demo1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/EnumEx$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/EnumEx$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/EnumEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/EnumEx.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Fibonacci.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Floyds.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Floyds.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/InnerOuter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/InnerOuter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/InterfaceDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/InterfaceDemo1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Interfacedemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Interfacedemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/JaggedArr.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JaggedArr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Miscprint_pattern.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Miscprint_pattern.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Mobile.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Mobile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Odd_Even.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Odd_Even.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Pattern1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Pattern1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Pattern2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Pattern2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Pattern3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Pattern3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Pattern4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Pattern4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Pattern5.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Pattern5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Pattern6.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Pattern6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Pattern7.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Pattern7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Pattern8.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Pattern8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Pattern9.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Pattern9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Perfect_num.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Perfect_num.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Prime.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Prime.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/String_rev.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/String_rev.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Super_ex.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Super_ex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Tunastatic.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Tunastatic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Varargs.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Varargs.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/abc.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/abc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/abstract_ex.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/abstract_ex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/min_max_arr.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/min_max_arr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/outer$inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/outer$inner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/outer.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/outer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/pen.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/pen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/pencil.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/pencil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/static1_encapsulation.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/static1_encapsulation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/thread/Hello.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/thread/Hello.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/thread/Synchro$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/thread/Synchro$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/thread/Synchro$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/thread/Synchro$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/thread/Synchro.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/thread/Synchro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/thread/ThreadDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/thread/ThreadDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/thread/ThreadDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/thread/ThreadDemo1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/thread/counter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/thread/counter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/writer.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/writer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/writer1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/writer1.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="85" />
     <option name="y" value="25" />
     <option name="width" value="1750" />
     <option name="height" value="970" />
   </component>
+  <component name="ProjectId" id="2Yiv4zHhv3w2fGheYGFiqLLl6Wg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1623484907183" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/oneshop-ce" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager">
-    <configuration name="Basic2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic2" />
+  <component name="RunManager" selected="Application.BasicJava">
+    <configuration name="BasicJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FSD_Basic.BasicJava" />
       <module name="TestProject-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FSD_Basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaxSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.MaxSubArray" />
+      <module name="TestProject-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RecurringNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hash.RecurringNumber" />
+      <module name="TestProject-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Hash.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.ReverseString" />
+      <module name="TestProject-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RotateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.RotateArray" />
+      <module name="TestProject-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Basic2" />
+        <item itemvalue="Application.BasicJava" />
+        <item itemvalue="Application.RotateArray" />
+        <item itemvalue="Application.RecurringNumber" />
+        <item itemvalue="Application.MaxSubArray" />
+        <item itemvalue="Application.ReverseString" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="179cba82-6bb8-4d18-8d14-2a81a71de2f4" name="Changes" comment="" />
+      <created>1701021027123</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701021027123</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/SortedArrayMerged.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/SortedArrayMerged.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/MaxSubArray.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/RotateArray.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/RotateArray.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/RotateArray.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/RotateArray.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Hash/RecurringNumber.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/RotateArray.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/RotateArray.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
