@@ -4,12 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="179cba82-6bb8-4d18-8d14-2a81a71de2f4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/MaxSubArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/RotateArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/SortedArrayMerged.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hash/RecurringNumber.java" afterDir="false" />
+    <list default="true" id="179cba82-6bb8-4d18-8d14-2a81a71de2f4" name="Changes" comment="commit new- basic java for FSD class">
+      <change afterPath="$PROJECT_DIR$/src/Arrays/ArrayUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FSD_Basic/Assignment_BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FSD_Basic/Assignment_slidingwindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FSD_Basic/Assignment_stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FSD_Basic/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FSD_Basic/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FSD_Basic/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FSD_Basic/assignment2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/A.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/AB.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/AB.class" afterDir="false" />
@@ -68,6 +73,8 @@
       <change beforePath="$PROJECT_DIR$/bin/thread/counter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/thread/counter.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/writer.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/writer.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/writer1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/writer1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/SortedArrayMerged.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/SortedArrayMerged.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FSD_Basic/BasicJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FSD_Basic/BasicJava.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +94,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="85" />
     <option name="y" value="25" />
@@ -98,18 +108,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1623484907183" />
-    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/oneshop-ce" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-  </component>
-  <component name="RunManager" selected="Application.BasicJava">
-    <configuration name="BasicJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FSD_Basic.BasicJava" />
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Assignment_BinarySearch.executor": "Debug",
+    "Application.Assignment_slidingwindow.executor": "Run",
+    "Application.Assignment_stack.executor": "Debug",
+    "Application.BasicJava.executor": "Run",
+    "Application.Book.executor": "Run",
+    "Application.IsSortedArray.executor": "Debug",
+    "Application.Solution.executor": "Run",
+    "Application.TwoSum.executor": "Debug",
+    "Application.assignment2.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/embitel/DSA"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Solution">
+    <configuration name="Assignment_BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FSD_Basic.Assignment_BinarySearch" />
       <module name="TestProject-java" />
       <extension name="coverage">
         <pattern>
@@ -121,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.MaxSubArray" />
+    <configuration name="Assignment_slidingwindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FSD_Basic.Assignment_slidingwindow" />
       <module name="TestProject-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="FSD_Basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +151,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecurringNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hash.RecurringNumber" />
+    <configuration name="Assignment_stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FSD_Basic.Assignment_stack" />
       <module name="TestProject-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Hash.*" />
+          <option name="PATTERN" value="FSD_Basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,12 +164,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.ReverseString" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FSD_Basic.Solution" />
       <module name="TestProject-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="FSD_Basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,12 +177,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RotateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.RotateArray" />
+    <configuration name="assignment2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FSD_Basic.assignment2" />
       <module name="TestProject-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="FSD_Basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,11 +192,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BasicJava" />
-        <item itemvalue="Application.RotateArray" />
-        <item itemvalue="Application.RecurringNumber" />
-        <item itemvalue="Application.MaxSubArray" />
-        <item itemvalue="Application.ReverseString" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Assignment_slidingwindow" />
+        <item itemvalue="Application.Assignment_BinarySearch" />
+        <item itemvalue="Application.Assignment_stack" />
+        <item itemvalue="Application.assignment2" />
       </list>
     </recent_temporary>
   </component>
@@ -192,6 +209,15 @@
       <option name="presentableId" value="Default" />
       <updated>1701021027123</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit new- basic java for FSD class">
+      <option name="closed" value="true" />
+      <created>1705640926042</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705640926043</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -205,17 +231,21 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit new- basic java for FSD class" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit new- basic java for FSD class" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Arrays/SortedArrayMerged.java</url>
-          <line>11</line>
+          <line>13</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Arrays/SortedArrayMerged.java</url>
-          <line>14</line>
+          <line>16</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -258,7 +288,192 @@
           <line>28</line>
           <option name="timeStamp" value="20" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/SortedArrayMerged.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FSD_Basic/BasicJava.java</url>
+          <line>340</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FSD_Basic/BasicJava.java</url>
+          <line>349</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FSD_Basic/BasicJava.java</url>
+          <line>341</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FSD_Basic/BasicJava.java</url>
+          <line>384</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FSD_Basic/BasicJava.java</url>
+          <line>515</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FSD_Basic/BasicJava.java</url>
+          <line>555</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FSD_Basic/BasicJava.java</url>
+          <line>577</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FSD_Basic/assignment2.java</url>
+          <line>213</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FSD_Basic/assignment2.java</url>
+          <line>143</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FSD_Basic/assignment2.java</url>
+          <line>162</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FSD_Basic/assignment2.java</url>
+          <line>271</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FSD_Basic/assignment2.java</url>
+          <line>290</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FSD_Basic/assignment2.java</url>
+          <line>286</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FSD_Basic/assignment2.java</url>
+          <line>234</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FSD_Basic/assignment2.java</url>
+          <line>374</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FSD_Basic/assignment2.java</url>
+          <line>325</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FSD_Basic/Assignment_stack.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FSD_Basic/Assignment_stack.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FSD_Basic/Assignment_stack.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FSD_Basic/Assignment_stack.java</url>
+          <line>123</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FSD_Basic/Assignment_stack.java</url>
+          <line>141</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FSD_Basic/Assignment_stack.java</url>
+          <line>194</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FSD_Basic/Assignment_stack.java</url>
+          <line>245</line>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FSD_Basic/Assignment_stack.java</url>
+          <line>269</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FSD_Basic/Assignment_stack.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FSD_Basic/Assignment_BinarySearch.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FSD_Basic/Assignment_BinarySearch.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FSD_Basic/Assignment_BinarySearch.java</url>
+          <line>195</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FSD_Basic/Assignment_BinarySearch.java</url>
+          <line>203</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FSD_Basic/Assignment_BinarySearch.java</url>
+          <line>236</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FSD_Basic/Assignment_BinarySearch.java</url>
+          <line>286</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FSD_Basic/Assignment_BinarySearch.java</url>
+          <line>273</line>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FSD_Basic/Assignment_slidingwindow.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FSD_Basic/Assignment_slidingwindow.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="rt" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TestProject_java$assignment2.ic" NAME="assignment2 Coverage Results" MODIFIED="1707219841710" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>FSD_Basic.*</FILTER>
+    </SUITE>
   </component>
 </project>
