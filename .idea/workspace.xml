@@ -5,75 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="179cba82-6bb8-4d18-8d14-2a81a71de2f4" name="Changes" comment="commit new- basic java for FSD class">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/ArrayUtility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FSD_Basic/Assignment_BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FSD_Basic/Assignment_slidingwindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FSD_Basic/Assignment_stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FSD_Basic/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FSD_Basic/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FSD_Basic/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FSD_Basic/assignment2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/trees/priority_queue/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/trees/priority_queue/PriorityQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FSD_Basic/Assignment_sliding_window.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hash/implementing_hashTable/HashTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hash/implementing_hashTable/KeyValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graphs/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linked_list/double_linked_list/DoublyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linked_list/double_linked_list/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linked_list/single_linked_list/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linked_list/single_linked_list/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/queue/General_queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/queue/queue_usingLinkedList/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/queue/queue_usingLinkedList/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/queue/queue_using_stack/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stacks/stack_using_arrayList/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stacks/stack_using_linkedList/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stacks/stack_using_linkedList/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trees/binarySearchTree/BinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trees/binarySearchTree/HelperFunctions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trees/binarySearchTree/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trees/priority_queue/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trees/priority_queue/PriorityQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trees/trie/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trees/trie/Trie.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/AB.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/AB.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Anonymous_ex$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Anonymous_ex$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Anonymous_ex.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Anonymous_ex.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Armstrong_num.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Armstrong_num.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/AsciiDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/AsciiDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Basic2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Basic2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Break_continue.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Break_continue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/C.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/C.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Cal.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Cal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Constructor_ex.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Constructor_ex.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Demo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Demo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Demo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/EnumEx$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/EnumEx$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/EnumEx.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/EnumEx.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Fibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Fibonacci.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Floyds.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Floyds.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/InnerOuter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/InnerOuter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/InterfaceDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/InterfaceDemo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Interfacedemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Interfacedemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/JaggedArr.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/JaggedArr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Miscprint_pattern.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Miscprint_pattern.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Mobile.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Mobile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Odd_Even.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Odd_Even.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Pattern1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Pattern1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Pattern2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Pattern2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Pattern3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Pattern3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Pattern4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Pattern4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Pattern5.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Pattern5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Pattern6.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Pattern6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Pattern7.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Pattern7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Pattern8.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Pattern8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Pattern9.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Pattern9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Perfect_num.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Perfect_num.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Prime.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Prime.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/String_rev.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/String_rev.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Super_ex.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Super_ex.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Tunastatic.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Tunastatic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Varargs.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Varargs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/abc.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/abc.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/abstract_ex.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/abstract_ex.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/min_max_arr.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/min_max_arr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/outer$inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/outer$inner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/outer.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/outer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/pen.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/pen.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/pencil.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/pencil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/static1_encapsulation.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/static1_encapsulation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/thread/Hello.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/thread/Hello.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/thread/Synchro$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/thread/Synchro$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/thread/Synchro$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/thread/Synchro$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/thread/Synchro.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/thread/Synchro.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/thread/ThreadDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/thread/ThreadDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/thread/ThreadDemo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/thread/ThreadDemo1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/thread/counter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/thread/counter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/writer.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/writer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/writer1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/writer1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/SortedArrayMerged.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/SortedArrayMerged.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/FSD_Basic/BasicJava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FSD_Basic/BasicJava.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -111,22 +69,35 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Assignment_BinarySearch.executor": "Debug",
+    "Application.Assignment_sliding_window.executor": "Debug",
     "Application.Assignment_slidingwindow.executor": "Run",
     "Application.Assignment_stack.executor": "Debug",
-    "Application.BasicJava.executor": "Run",
+    "Application.BasicJava.executor": "Debug",
+    "Application.BinarySearchTree.executor": "Debug",
     "Application.Book.executor": "Run",
+    "Application.DoublyLinkedList.executor": "Debug",
+    "Application.General_queue.executor": "Run",
+    "Application.Graph.executor": "Run",
+    "Application.HashTable.executor": "Run",
     "Application.IsSortedArray.executor": "Debug",
+    "Application.LinkedList.executor": "Debug",
+    "Application.PriorityQueue.executor": "Run",
+    "Application.Queue.executor": "Run",
     "Application.Solution.executor": "Run",
+    "Application.Stack.executor": "Run",
+    "Application.Trie.executor": "Run",
     "Application.TwoSum.executor": "Debug",
     "Application.assignment2.executor": "Debug",
+    "Application.stacks.stack_using_arrayList.Stack.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/embitel/DSA"
+    "last_opened_file_path": "D:/embitel/DSA/Java-algo"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Solution">
-    <configuration name="Assignment_BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FSD_Basic.Assignment_BinarySearch" />
+  <component name="RunManager" selected="Application.General_queue">
+    <configuration name="Assignment_sliding_window" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FSD_Basic.Assignment_sliding_window" />
       <module name="TestProject-java" />
       <extension name="coverage">
         <pattern>
@@ -138,8 +109,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Assignment_slidingwindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FSD_Basic.Assignment_slidingwindow" />
+    <configuration name="BasicJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FSD_Basic.BasicJava" />
       <module name="TestProject-java" />
       <extension name="coverage">
         <pattern>
@@ -151,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Assignment_stack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FSD_Basic.Assignment_stack" />
+    <configuration name="General_queue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="queue.General_queue" />
       <module name="TestProject-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FSD_Basic.*" />
+          <option name="PATTERN" value="queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FSD_Basic.Solution" />
+    <configuration name="Graph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="graphs.Graph" />
       <module name="TestProject-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FSD_Basic.*" />
+          <option name="PATTERN" value="graphs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="assignment2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FSD_Basic.assignment2" />
+    <configuration name="Queue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="queue.queue_using_stack.Queue" />
       <module name="TestProject-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FSD_Basic.*" />
+          <option name="PATTERN" value="queue.queue_using_stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Assignment_slidingwindow" />
-        <item itemvalue="Application.Assignment_BinarySearch" />
-        <item itemvalue="Application.Assignment_stack" />
-        <item itemvalue="Application.assignment2" />
+        <item itemvalue="Application.General_queue" />
+        <item itemvalue="Application.Queue" />
+        <item itemvalue="Application.Assignment_sliding_window" />
+        <item itemvalue="Application.BasicJava" />
+        <item itemvalue="Application.Graph" />
       </list>
     </recent_temporary>
   </component>
@@ -463,8 +434,78 @@
           <line>31</line>
           <option name="timeStamp" value="144" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Hash/implementing_hashTable/HashTable.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Hash/implementing_hashTable/HashTable.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="157" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/linked_list/single_linked_list/LinkedList.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/queue/queue_using_stack/Queue.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/queue/queue_using_stack/Queue.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FSD_Basic/BasicJava.java</url>
+          <line>705</line>
+          <option name="timeStamp" value="177" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FSD_Basic/Assignment_sliding_window.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="186" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/queue/General_queue.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="191" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/queue/General_queue.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="193" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/queue/General_queue.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="194" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/queue/General_queue.java</url>
+          <line>82</line>
+          <option name="timeStamp" value="199" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/queue/General_queue.java</url>
+          <line>104</line>
+          <option name="timeStamp" value="200" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/queue/General_queue.java</url>
+          <line>137</line>
+          <option name="timeStamp" value="201" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="trees.trie.Node" memberName="children" />
+      </pinned-members>
+    </pin-to-top-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="rt" />

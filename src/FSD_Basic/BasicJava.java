@@ -680,7 +680,40 @@ public class BasicJava {
             return sum;
         }
 
+//    public static int lengthOfLongestSubstring(String s) {
+//        if(s.length()<=1) return s.length();
+//        int longest = 0;
+//        for(int i=0;i<s.length();i++){
+//            int count =0;
+//            ArrayList<Character> arrayList = new ArrayList<>();
+//            for(int j=i;j<s.length();j++){
+//
+//                if(!arrayList.contains(s.charAt(j))) {
+//                    arrayList.add(s.charAt(j));
+//                    count++;
+//                    longest = Math.max(longest,count);
+//                }
+//                else
+//                    break;
+//            }
+//        }
+//        return longest;
+//    }
 
+    public static int lengthOfLongestSubstring(String s) {
+        String st = "";
+        int maxLength = 0;
+        for (int i = 0; i < s.length(); i++) {
+            char ch = s.charAt(i);
+            int index = st.indexOf(ch);
+            if (index != -1) {
+                st = st.substring(index + 1);
+            }
+            st=st+ch;
+            maxLength = Math.max(maxLength, st.length());
+        }
+        return maxLength;
+    }
     public static void main(String[] args) {
         int[] arr = {1, 2, 6, 3, 5};
         Integer[] arr1 = {1, 3, 0, 4, null, null};
@@ -727,7 +760,8 @@ public class BasicJava {
 //            System.out.println();
 //        }
 //        rotate(matrix);
-        System.out.println(findMissingRanges(new int[]{ 3, 5,8,75},0,99));
+//        System.out.println(findMissingRanges(new int[]{ 3, 5,8,75},0,99));
+        System.out.println(lengthOfLongestSubstring("abcabcbb"));
 
     }
 
